@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-    <strong>2. SESSION ID & DÉPLOIEMENTS</strong>
+    <strong>2. SESSION ID & DEPLOYMENTS</strong>
     <br>
-    <a href="https://www.heliosxd.space/" target="_blank">
-        <img alt="WEBSITE" src="https://img.shields.io/badge/Let's_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    <a href="https://www.cypherx.space/" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
     </a>
 </p>
