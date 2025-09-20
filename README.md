@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/joelbrown797/HELIOS_XD">
-    <img alt="HELIOS_XD logo" height="350" src="https://i.ibb.co/nqsRcKDB/Xploader4.jpg">
+    <img alt="HELIOS_XD logo" height="350" src="https://files.catbox.moe/3dmhen.jpg">
   </a>
 </p>
 
